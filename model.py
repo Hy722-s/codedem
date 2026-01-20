@@ -200,3 +200,4 @@ plt.legend()
 plt.tight_layout()
 plt.savefig('ccus_total_cost_analysis_with_distance.png', dpi=300)
 plt.show()    
+
